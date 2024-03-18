@@ -14,7 +14,7 @@ struct Users_2: View {
         
         ZStack {
             
-            Color.black
+            Color("bg2")
                 .ignoresSafeArea()
             
             Image("users_2")
